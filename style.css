@@ -1,18 +1,4 @@
-.green{
-    width: 400px;
-    height: 200px;
-    background-color: green;
-}
-.red{
-    height: 120px;
-    width: 12
-    
-    
-    
-    
-    
-    
-    0px;
-    border-radius: 100px;
-    background-color: red;
+body{
+margin: 0;
+padding: 0;
 }
